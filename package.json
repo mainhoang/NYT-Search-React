@@ -2,7 +2,7 @@
   "name": "nyt-search",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://mainhoang.github.io/NYT-Search-React",
   "dependencies": {
     "axios": "^0.16.2",
     "body-parser": "^1.17.2",
